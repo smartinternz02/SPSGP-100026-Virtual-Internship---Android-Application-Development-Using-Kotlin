@@ -1,14 +1,19 @@
 SPSGP-100026-Virtual-Internship---Android-Application-Development-Using-Kotlin
 
 <h2>Virtual Internship - Android Application Development Using Kotlin<h2>
-Project: Grocery App
+project 1:Nearby places App
+
+
+Description
+------------------
+A mobile app is built where the user can search for his nearby locations based on his requirement. Whenever the user gives input of business type like a hotel, petrol pumps, hospitals, etc. using Place API and as a response we obtain the co-ordinates that are marked on the Google map. App developed using the Google Maps API and Google Places API. The app consists on finding the nearest places around your location just by clicking on a button;moreover, this app also allows making searches with addresses and key words. This was made using Kotlin and Java programming languages on Android Studio. We can find the places like restaurants by entering our location by using latitude and longitude with the radius. Android app that search-finds near places on the map-Navigator.
+
+<h2>Project 2: Grocery App</h2>
 
 
 Description
 ------------------
 This app helps you to make a proper list of grocery items with quantity and price so that, when you go for shopping next time you don't forget anything to buy and have a track of your expenditure for budget maintenance.
-
-Demo link: https://youtu.be/r8JMeqN1Ae4
 
 
 App Screenshots
